@@ -35,8 +35,6 @@ A simple and responsive two-player Tic-Tac-Toe game built with **HTML, CSS, and 
 tic-tac-toe/
 │
 ├── index.html
-├── style.css
-├── script.js
 └── README.md
 ```
 
